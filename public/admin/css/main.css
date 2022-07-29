@@ -1,0 +1,19 @@
+.small-box>.small-box-footer{
+    padding: 8px 15px;
+    text-align: unset!important;
+}
+.small-box-footer>.span-left{
+    float: left!important;
+}
+.small-box-footer>.span-right{
+    float: right!important;
+}
+.nav-item .nav .nav-link.active {
+    background-color: #28a745!important;
+}
+.nav-link{
+    color:  #343a40!important;
+}
+.select2 {
+    width:100%!important;
+}
